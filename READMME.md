@@ -129,6 +129,6 @@ Name-Surname: Resül Topaç
 
 E-Mail: resultopac04@gmail.com
 
-Project Link: [https://github.com/resultopac/house-price-prediction](https://github.com/yourusername/house-price-prediction)
+Project Link: [https://github.com/resultopac/HousePricePrediction](https://github.com/resultopac/HousePricePrediction)
 
 ⭐ If you found this project helpful, please consider giving it a star!
