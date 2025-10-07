@@ -34,7 +34,7 @@ house-price-prediction/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/resultopac/HousePricePrediction.git
 cd HousePricePrediction
 ```
 
